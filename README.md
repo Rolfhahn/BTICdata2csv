@@ -8,6 +8,9 @@ Reason for this script:
  You can import this CSV file in Excel.
  For example, a ciso can get an overview of all sessions from an entire year in just one file. 
 
+Requirements / Prerequisites:
+ The BeyondTrust(R) Integration Client must have the PRA or RS Appliance data stored on an archive share.
+
 How to configure and prepare it:
  A .json control file must be located in the "configs" subdirectory of the script. 
  The .json file is normally given the name of the BeyondTrust site. Example: \control\site_company_org.json
