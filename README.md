@@ -22,7 +22,9 @@ How to configure and prepare it:
                                                                          Select 1 here - otherwise 0 .
 
 Parameters to start the script: 
- ./MD-createCSVfromBTXML -CFGFile [nameofyourconfigfile.json]
+ ./MD-createCSVfromBTXML.ps1 -CFGFile [nameofyourconfigfile.json]
+ 
+ !! the .json config-file should be placed in a subfolder of the script named "/configs"
  
 Remarks:
  BeyondTrust(R) is a registered Trademark of BeyondTrust Corporation 
