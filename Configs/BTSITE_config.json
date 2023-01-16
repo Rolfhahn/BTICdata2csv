@@ -1,0 +1,11 @@
+{
+  "required":["BTXMLFilePath","BTM4VFilePath","MDCSVFilePath"],
+  "properties":
+  {
+    "ScriptVersion":"1.1",
+    "BTXMLPath":"\\\\server\\share\\dir\\ic\\BTsitedir\\2",
+    "BTM4VPath":"\\\\server\\share\\dir\\ic\\BTsitedir\\3",
+    "MDCSVPath":"\\\\server\\share\\dir\\ic\\BTsitedir\\MDDailyCSV",
+    "AjustFileDT":0
+  }
+}
