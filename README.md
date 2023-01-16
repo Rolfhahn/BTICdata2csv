@@ -17,7 +17,7 @@ How to configure and prepare it:
     "BTXMLPath":"\\\\server\\share\\dir\\ic\\BTsitedir\\2",            - this is the path to the Integration-Client SessionData .xml Files Collection.
     "BTM4VPath":"\\\\server\\share\\dir\\ic\\BTsitedir\\3",            - this is the path to the Integration-Client SessionRecording .m4v Files Collection.
     "MDCSVPath":"\\\\server\\share\\dir\\ic\\BTsitedir\\MDDailyCSV",   - this is the path to the .CSV Output file which the script will generate. 
-    "AjustFileDT":0                                                      Should the date and time of the XML files and the M4V files be adjusted to
+    "AjustFileDT":0                                                    - Should the date and time of the XML files and the M4V files be adjusted to
                                                                          the actual session time instead of the export time of the Integration Client? 
                                                                          Select 1 here - otherwise 0 .
 
